@@ -1,0 +1,36 @@
+.item{
+  display: flex;
+   gap: 20px;
+  
+  align-items: center;
+  background-color: white;
+  width: 500px;
+ border-radius: 10px;
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  text-align: left;
+  padding: 0 20px;
+
+}
+
+.status {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-right: 8px;
+  }
+  
+  .statusOnline {
+    background-color: green;
+  }
+  
+  .statusOffline {
+    background-color: red;
+  }
+  
+  .avatar{
+    width: 48px;
+    height: 48px;
+
+  }
+

@@ -1,0 +1,47 @@
+.statistics{
+background-color: white;
+margin-top: 20px;
+
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+.title{
+text-align: center;
+font-weight: 700;
+background-color: white;
+padding: 50px;
+
+}
+.item{
+    
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    padding: 25px;
+    width: 100%;
+}
+.label{
+color: white;
+}
+.percentage{
+color: white;
+}
+
+.color1 {
+    background-color: #48c9f4; 
+  }
+  
+  .color2 {
+    background-color: #a43cf2; 
+  }
+  
+  .color3 {
+    background-color: #e64c66; 
+  }
+  
+  .color4 {
+    background-color: #20b8c5; 
+  }

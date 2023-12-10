@@ -1,0 +1,24 @@
+.transactionHistory{
+    width: 800px;
+}
+.header{
+    background-color: #00bcd5;
+    color: white;
+}
+.evenRow{
+background-color: #ffffff;
+
+}
+
+.oddRow{
+background-color: #ecf1f4;
+}
+.evenRow, .oddRow{
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.evenRow td, .oddRow td{
+    opacity: 0.6;
+}
